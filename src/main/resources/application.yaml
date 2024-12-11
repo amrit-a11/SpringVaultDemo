@@ -3,7 +3,7 @@ spring:
     name: springboot-vault-demo
   cloud:
     vault:
-      token:
+      token: hvs.Og6igcN6Hvp7XzUzKitAlbr1
       scheme: http
       kv:
         enabled: true
